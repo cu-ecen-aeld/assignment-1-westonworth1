@@ -1,0 +1,3 @@
+Writing 5 files containing string testytest to /tmp/aeld-data/test
+The number of files are 5 and the number of matching lines are 5
+success
